@@ -1,0 +1,37 @@
+body{
+    background-color: #674bb1;
+}
+
+.container{
+    display: flex;
+}
+
+.logo{
+    width: 150px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.mockup{
+    margin-top: 40px;
+    width: 600px;
+    padding-left: 90px;
+}
+.container-two{
+    margin-left: 50px;
+}
+h1{
+    color: white;
+    margin-top: 140px;
+}
+p{
+    color: #e7d8ff;
+    margin-right: 120px;
+}
+.register{
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    border: none;
+    color: #5115b1;
+}
